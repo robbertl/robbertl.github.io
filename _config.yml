@@ -22,7 +22,7 @@ url: 'https://robbertl.github.io'
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
-  text: Desk Theme # e.g. logo.png, upload logo image file to /assets/posts/ folder
+  text: DeskTheme # e.g. logo.png, upload logo image file to /assets/posts/ folder
 
 # Author settings, displayed on about page
 author:
