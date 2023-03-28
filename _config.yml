@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title: Desk
+title: DeskThem
 description: Knowledge base Jekyll theme.
 
 # Site subpath, e.g. /blog
@@ -21,7 +21,7 @@ timezone: Europe/Dublin
 url: 'https://robbertl.github.io'
 
 # Site logo, dark and light depending on page hero text setting dark/light
-logo_image:
+brand:
   text: DeskTheme # e.g. logo.png, upload logo image file to /assets/posts/ folder
 
 # Author settings, displayed on about page
