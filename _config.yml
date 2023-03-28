@@ -47,7 +47,7 @@ github_username: somename
 
 # Default footer image settings
 footer:
-  copyright: Made by <a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
+  copyright: <a href="https://desktheme.ie">DeskTheme</a> Ireland | Design <a href="https://unbound.studio/">Unbound Studio</a>
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
