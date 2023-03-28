@@ -14,6 +14,9 @@ baseurl: ''
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink: /:title/
 
+# Timezone for timestamp
+timezone: Europe/Dublin
+
 # Site base hostname & protocol, e.g. http://example.com
 url: 'https://robbertl.github.io'
 
