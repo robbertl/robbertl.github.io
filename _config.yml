@@ -28,16 +28,16 @@ brand:
 author:
   name: John Smith
   email:
-  website:
-  facebook:
+  website: https://www.desktheme.ie
+  facebook: https://www.facebook.com
   flickr:
   dribbble:
   github:
   googleplus:
   instagram: 
-  linkedin:
+  linkedin: https://www.linkedin.com
   pinterest:
-  twitter: 
+  twitter: https://www.twitter.com
   vimeo: 
   youtube:
 
