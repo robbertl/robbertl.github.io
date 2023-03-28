@@ -1,0 +1,9 @@
+---
+layout: none
+---
+User-agent: *
+
+Disallow:
+
+# Sitemap files
+Sitemap: {{ site.url }}/sitemap.xml
