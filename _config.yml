@@ -18,11 +18,11 @@ permalink: /:title/
 timezone: Europe/Dublin
 
 # Site base hostname & protocol, e.g. http://example.com
-url: 'https://myvault.ie'
+url: 'https://www.myvault.ie'
 
 # Site logo, dark and light depending on page hero text setting dark/light
 brand:
-  text: DeskThemesite # e.g. logo.png, upload logo image file to /assets/posts/ folder
+  text: MyVault.ie # e.g. logo.png, upload logo image file to /assets/posts/ folder
 
 # Author settings, displayed on about page
 author:
@@ -47,7 +47,7 @@ github_username: somename
 
 # Default footer image settings
 footer:
-  copyright: <a href="https://desktheme.ie">DeskTheme</a> Ireland | Design <a href="https://unbound.studio/">Unbound Studio</a>
+  copyright: <a href="https://MyVault.ie">DeskTheme</a> Ireland | Design <a href="https://unbound.studio/">Unbound Studio</a>
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
