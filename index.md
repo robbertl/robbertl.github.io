@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Have Data you need to Store?
-subtitle: Zero Trust Cloud Based Data Storage and Recovery Solutions
+subtitle: Zero Trust Cloud Based Data Cold Storage Solutions
 hero:
     background: "#005a80"
     align: center
