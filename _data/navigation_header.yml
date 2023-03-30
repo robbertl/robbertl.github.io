@@ -4,6 +4,7 @@
 
 - title: Faq's
   url: /faq/
+  button: danger
   
 - title: About
   url: /about/
