@@ -1,7 +1,7 @@
 ---
 layout: help
-title: Have Data you need to Store?
-subtitle: Anonymous Zero Trust Cloud Based Data Cold Storage Solutions
+title: Anonymous Data Storage
+subtitle: Zero Trust | Cloud Based | Cold Storage and Retrevial Solutions
 hero:
     background: "#005a80"
     align: center
