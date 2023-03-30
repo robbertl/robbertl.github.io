@@ -60,6 +60,6 @@ Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorpe
 - [ ] Contact the media
 
 [Duck Duck Go](https://duckduckgo.com "My search engine!")
-[title](https://www.myvault.ie/about/#Exampleofcodeblock)
+[title](https://www.myvault.ie/about/#Example of code block)
 {% include warning.html content="Add your warning here." %}
 
