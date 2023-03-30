@@ -62,5 +62,6 @@ Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorpe
 [Duck Duck Go](https://duckduckgo.com "My search engine!")
 
 
-[Heading IDs](#1234)
+[Mygreatheading](#1234)
+[Mygreat heading](#1234)
 
