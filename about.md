@@ -61,10 +61,3 @@ Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorpe
 
 [Duck Duck Go](https://duckduckgo.com "My search engine!")
 
-
-[Mygreatheading](#1234)
-
-[Mygreat heading](#1234)
-
-{% include alert.html style="primary" text="Cras at dolor eget urna varius faucibus tempus in elit." %}
-
