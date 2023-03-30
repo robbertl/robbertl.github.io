@@ -18,7 +18,7 @@ permalink: /:title/
 timezone: Europe/Dublin
 
 # Site base hostname & protocol, e.g. http://example.com
-url: 'https://www.myvault.ie'
+url: 'https://myvault.ie'
 
 # Site logo, dark and light depending on page hero text setting dark/light
 brand:
