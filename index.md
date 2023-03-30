@@ -1,7 +1,7 @@
 ---
 layout: help
 title: How Can We Help?
-subtitle: Find advice and answers from our support team fast or get in touch
+subtitle: Zero Trust Cloud Based Data Storage and Recocery Solutions
 hero:
     background: "#005a80"
     align: center
