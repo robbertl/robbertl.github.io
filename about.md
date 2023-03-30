@@ -46,7 +46,7 @@ In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibe
 
 Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
 
-## Mygreat heading{#1234}
+### Mygreat heading{#1234}
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
 
 > Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
@@ -59,4 +59,4 @@ Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorpe
 - [ ] Contact the media
 - [ ] Contact the media
 
-[Heading IDs](#1234)
+[Duck Duck Go](https://duckduckgo.com "My search engine!")
