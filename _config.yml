@@ -5,8 +5,9 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title: DeskThemesite.ie
+title: MyVault.ie
 description: Knowledge base Jekyll theme.
+description: Zero Trust Data Storage Solutions
 
 # Site subpath, e.g. /blog
 baseurl: ''
