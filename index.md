@@ -1,7 +1,7 @@
 ---
 layout: help
-title: How Can We Help?
-subtitle: Zero Trust Cloud Based Data Storage and Recocery Solutions
+title: Have Data you need to Store?
+subtitle: Zero Trust Cloud Based Data Storage and Recovery Solutions
 hero:
     background: "#005a80"
     align: center
