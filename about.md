@@ -66,3 +66,5 @@ Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorpe
 
 [Mygreat heading](#1234)
 
+{% include alert.html style="primary" text="Cras at dolor eget urna varius faucibus tempus in elit." %}
+
