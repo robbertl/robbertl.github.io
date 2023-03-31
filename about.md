@@ -6,7 +6,7 @@ description: This is where the descriptionof the page goes.
 permalink: /about/
 ---
 
-#### Sections in this article
+## Sections in this article
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
@@ -57,6 +57,3 @@ Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorpe
 - [ ] Contact the media
 
 [Duck Duck Go](https://duckduckgo.com "My search engine!")
-
-{% include alert.html style="primary" text="Cras at dolor eget urna varius faucibus tempus in elit." %}
-
