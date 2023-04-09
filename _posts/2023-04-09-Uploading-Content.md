@@ -37,6 +37,33 @@ In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibe
 
 3.  Another list item.
 
+1.  Sample first item.
+
+    This is a result statement that talks about something....
+
+2.  Continuing the list
+
+    <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> Remember to do this. If you have "quotes", you must escape them.</div>
+
+
+
+
+    Here's a list in here:
+
+    * first item
+    * second item
+
+3.  Another list item.
+
+    ```js
+    function alert("hello");
+    ```
+
+4.  Another item.
+
+
+
+
 ```html
 <head>
   <meta charset="utf-8">
