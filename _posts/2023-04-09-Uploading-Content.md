@@ -2,7 +2,7 @@
 layout: post
 title: How to Upload Content
 categories: [Getting Started, Uploading]
-tags: [Uploading, Getting Started]
+tags: [Uploading, Getting Started,featured]
 author: MyVault.ie
 ---
 
