@@ -2,14 +2,14 @@
 
 - heading: Browse All Topics
   categories:
-    - title: Getting Started
+    - title: Submit Your Data
       desc: Get your account up and running in just few easy steps
       icon: settings
 
-    - title: Anonymous Storage
+    - title: Retrieve Your Data
       desc: Managing your account, creating new users and exporting data
       icon: credit-card
 
-    - title: Troubleshooting
+    - title: FAQ's
       desc: Answers to most common configuration issues
       icon: cog
