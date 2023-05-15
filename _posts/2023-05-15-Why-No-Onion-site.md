@@ -2,7 +2,7 @@
 layout: post
 title: Why no Onion Website?
 categories: [Submit Your Data, FAQ's]
-tags: [Mondy, Time]
+tags: [Mondy, Time, featured]
 author: John Black
 ---
 
